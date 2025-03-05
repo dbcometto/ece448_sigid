@@ -1,3 +1,5 @@
 # Recorded Signals
 *.sigmf-data
 *.sigmf-meta
+/data/*
+*.wav
